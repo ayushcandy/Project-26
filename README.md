@@ -1,2 +1,1 @@
-# Project-26
-My recipies
+# CP-2
